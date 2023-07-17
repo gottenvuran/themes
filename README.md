@@ -1,4 +1,4 @@
-# BetterDiscord Themes
+BetterDiscord Themes
 
 All the themes/mini-themes/tools 'Spectra' made for Discord.
 
